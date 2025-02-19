@@ -1,0 +1,26 @@
+{
+  "ai_response": 2,
+  "total": 7,
+  "cmd": [
+    {
+      "name": "set",
+      "use": 1,
+      "times": "17/02 08:25:46"
+    },
+    {
+      "name": "menu",
+      "use": 1,
+      "times": "17/02 08:25:46"
+    },
+    {
+      "name": "on",
+      "use": 1,
+      "times": "17/02 08:25:46"
+    },
+    {
+      "name": "update",
+      "use": 4,
+      "times": "17/02 08:30:40"
+    }
+  ]
+}
