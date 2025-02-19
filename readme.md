@@ -58,7 +58,7 @@ npm start
 2. Jika Anda memilih QR, Anda memerlukan perangkat tambahan. Disarankan untuk menggunakan opsi pairing.
 
 3. Jika Anda memilih pairing:
-   - Masukkan nomor WhatsApp Anda, contoh: 62831109XXXXX.
+   - Masukkan nomor WhatsApp Anda, contoh: 62888027XXXXX.
    - Salin kode yang ditampilkan.
    - Buka WhatsApp Anda dan ikuti langkah-langkah berikut:
      - Klik titik tiga di kanan atas.
