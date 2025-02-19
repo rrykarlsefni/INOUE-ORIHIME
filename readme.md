@@ -1,4 +1,4 @@
-# Experimental-Bell (INOUE ORIHIME)
+# INOUE ORIHIME -bell
 
 ## Instalasi awal
 
