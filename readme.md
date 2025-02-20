@@ -133,7 +133,7 @@ ev.on({
 Terima kasih kepada semua yang telah berkontribusi dan mendukung pengembangan project ini.  
 Setiap masukan, ide, dan bantuan sangat berarti!
 
-[![](https://contrib.rocks/image?repo=Rifza123/Experimental-Bell)](https://github.com/Rifza123/Experimental-Bell/graphs/contributors)
+[![](https://contrib.rocks/image?repo=rrykarlsefni/Inoue-orihime)](https://github.com/rrykarlsefni/Inoue-orihime/graphs/contributors)
 
 Jika namamu belum tercantum, atau ingin ditambahkan, silakan ajukan issue atau hubungi kami.
 
