@@ -29,7 +29,7 @@ apt install git
 5. Cloning repo
 
 ```bash
-git clone https://github.com/Rifza123/Inoue-orihime.git
+git clone https://github.com/rrykarlsefni/Inoue-orihime.git
 ```
 
 ## Cara Pasang
